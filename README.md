@@ -1,6 +1,6 @@
 # Cisco ISE EAP-TLS Wireless Authentication Lab (Meraki MR36)
 
-A hands-on lab implementing **certificate-based wireless authentication (EAP-TLS)** using **Cisco ISE** as the RADIUS/CA server and a **Meraki MR36** access point, with dynamic VLAN assignment separating IT and HR wireless clients — no passwords involved, authentication is entirely certificate-driven.
+A lab on implementing **certificate-based wireless authentication (EAP-TLS)** using **Cisco ISE** as the RADIUS/CA server and a **Meraki MR36** access point, with dynamic VLAN assignment separating IT and HR wireless clients — no passwords involved, authentication is entirely certificate-driven.
 
 ---
 
